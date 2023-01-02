@@ -119,3 +119,5 @@ Big-O gösterimini yazınız.
  [0]   [3]
      [2] [4]            2 < 7 ardından 2 < 5 ardından 2 > 1 ardından 2 < 3 olduğu için 3'ten sonra sola yerleştirdik.
 ```
+
+---
